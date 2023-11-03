@@ -1,1 +1,2 @@
 this is just a new file
+another message for the text
